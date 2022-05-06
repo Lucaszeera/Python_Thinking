@@ -6,6 +6,6 @@ while tabuada < 11:
     if tabuada == 11:
         count += 1
         tabuada = 1
-    if count == 10:
+    if count == 11:
         break
 print("Fim")
